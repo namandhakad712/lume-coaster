@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.42h | 3 |
+| Week 1 | Tier 1 | 5.29h | 3 |
 
 ## Contents
 
 1. [2026-10-10 – Just downloaded the KiCAD 10.0, installed unable to understand usage. The layout and starting menu is bit simple to see but as soon i opened the PCB editor ; holy so so much configuration.](#2026-10-10-just-downloaded-the-kicad-100-installed-unable-to)
 2. [2026-10-10 – Eveyrthing setupp,](#2026-10-10-eveyrthing-setupp)
-3. [2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)](#2026-10-10-imagehttpshalflifehackclub-assetscomhackclub-half)
+3. [2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/5f5f3de3a9c4388975f7704808b13a5a12ba5f6a2242ada1251d2d4157911027.png)](#2026-10-10-imagehttpshalflifehackclub-assetscomhackclub-half)
 
 ## Design
 
@@ -36,24 +36,24 @@ Just took an screenshot of it and am consulting with llm *NOOB*  guides, learnin
 
 ### 2026-10-10 – Eveyrthing setupp,
 
-**0.42h**
+**0.37h**
 
 Eveyrthing setupp,
 
 [Timelapse](https://lookout.hackclub.com/api/media/7372bb3b-b9a9-4f28-93fa-35d9b431a647/video.mp4)
 
-### 2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)
+### 2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/5f5f3de3a9c4388975f7704808b13a5a12ba5f6a2242ada1251d2d4157911027.png)
 
-**3.5h**
+**4.42h**
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/5f5f3de3a9c4388975f7704808b13a5a12ba5f6a2242ada1251d2d4157911027.png)
 
 I never though the starting will be too bad for me as **AI gamed me** old version 's instructions that;s why i just got overwhelmed mind and left pc work as it is as i was unable to find he given dropdown and shortcuts.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/3699f429c10e96ce332b3ef4b141dc2e1eba1ad3f1ce2f4c457f84d012ec4208.png)
 
 so today was supposed to be the day the schematic finally comes alive and technically it did?? the kicad project actually opens now and the board shows up with all my footprints placed which is kinda surreal. two 22-pin female sockets sitting there waiting for the t5ai-core module to drop in. i been staring at this module's pinout for so long that pin numbers are starting to feel like people.
-
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)
 but here's the thing — the whole board is covered in these reddish lines right now and i'm not gonna pretend i know what every single one wants from me. some of them are **ratsnest** (_unrouted nets, i learned that word today_), some are drc going "hey this trace is doing something illegal." my honest state: components placed, nets named, routing is NOT done. if i fabbed this today it would be a very pretty paperweight.
 
 the dumb part:🤦 my timelapse is missing like an hour and a half to two hours of actual work. i got so deep in the back-and-forth with the ai — asking what it meant, clicking around trying to find the thing it was talking about — that lapse just... stayed paused. the whole time. i didn't even notice because i was too busy going "wait which pin is the adc one again." so the recording jumps. i'm writing this entry extra detailed partly to make up for it, because the code and the project files don't lie even when the camera does.
@@ -78,3 +78,7 @@ just so i can remember what each part was for, and it's mostly working but it sh
 what worked: the module's pinout finally makes sense to me, the two-socket layout is correct (this module is NOT a 2x22, it's two separate 1x22 rows and getting that wrong would have killed the board), and i have real lcsc part numbers in a bom now.
 
 what didn't: my timelapse discipline, my screenshot discipline, and the fact that routing is still very much not finished. next session the red lines die one by one....
+
+[Timelapse](https://lookout.hackclub.com/api/media/467d0735-bd85-4f0f-9a36-2396e7c09bee/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/7426acec-6a2c-4fed-8fd6-a3a043129057/video.mp4)
