@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.07h | 3 |
+| Week 1 | Tier 1 | 5.37h | 3 |
 
 ## Contents
 
@@ -44,7 +44,7 @@ Eveyrthing setupp,
 
 ### 2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)
 
-**5.2h**
+**4.5h**
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)
 
