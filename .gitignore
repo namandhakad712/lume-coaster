@@ -42,3 +42,4 @@ Thumbs.db
 *.swp
 .idea/
 .vscode/
+.dsh-vision-router

@@ -1,0 +1,22 @@
+Item,Reference,Value,Footprint,Description,Quantity,Vendor,Part No,Unit Price (USD)
+1,U1,Tuya T5AI-Core,Connector_PinSocket_2.54mm:Dual_1x22,ARM M33F WiFi+BLE Voice Dev Module,1,Amazon/Tuya,T5AI-Core,0.00
+2,DISP1,ILI9341 2.8in SPI LCD,Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical,240x320 TFT LCD SPI Display,1,Elecrow,DISP-ILI9341-2.8,12.00
+3,J1_TOP J1_BOT,PinSocket_1x22_2.54mm,Connector_PinSocket_2.54mm:PinSocket_1x22_P2.54mm_Vertical,2.54mm Female Header Socket 22-pin,2,LCSC,C224345,0.40
+4,J2,PinHeader_1x09_2.54mm,Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical,2.54mm Male Header 9-pin,1,LCSC,C50982,0.15
+5,J3,PinHeader_1x03_2.54mm,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,2.54mm Male Header 3-pin,1,LCSC,C50983,0.10
+6,BT1,JST-PH-2P,Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,2-pin 2.0mm LiPo Connector,1,LCSC,C131337,0.20
+7,J4_HARNESS,JST-GH-2P,Connector_JST:JST_GH_SM02B-GHS-TB_1x02_P1.25mm_Horizontal,2-pin 1.25mm Harness to Module CN1,1,LCSC,C148386,0.22
+8,J5,TYPE-C-31-M-12,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,16-pin USB-C Receptacle,1,LCSC,C165948,0.35
+9,SW1 SW2 SW3,Tactile Switch 6x6,Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm,6x6mm SMD Push Button,3,LCSC,C318884,0.30
+10,Q1,AO3401A,Package_TO_SOT_SMD:SOT-23,P-Channel -30V MOSFET SOT-23,1,LCSC,C15127,0.25
+11,D1,SS14,Diode_SMD:D_SMA,1A 40V Schottky Diode SMA,1,LCSC,C2480,0.10
+12,C_DISP1,100uF 16V,Capacitor_SMD:CP_Elec_6.3x5.4,100uF SMD Aluminum Electrolytic Capacitor,1,LCSC,C134547,0.15
+13,C_BAT1,10uF 16V,Capacitor_SMD:C_0805_2012Metric,0805 10uF Ceramic Capacitor,1,LCSC,C15850,0.08
+14,C_USB1,4.7uF 16V,Capacitor_SMD:C_0805_2012Metric,0805 4.7uF Ceramic Capacitor,1,LCSC,C19666,0.06
+15,C_DISP2 C_DEC1 C_DEC2 C_BAT2 C_BTN1 C_BTN2 C_BTN3,100nF,Capacitor_SMD:C_0805_2012Metric,0805 100nF 50V X7R Ceramic Capacitor,7,LCSC,C14663,0.02
+16,R_BAT1 R_BAT2,100k,Resistor_SMD:R_0805_2012Metric,0805 100k 1% Resistor,2,LCSC,C17407,0.04
+17,R_BTN1 R_BTN2 R_BTN3 R_BL1,10k,Resistor_SMD:R_0805_2012Metric,0805 10k 1% Resistor,4,LCSC,C17414,0.03
+18,R_CC1 R_CC2,5.1k,Resistor_SMD:R_0805_2012Metric,0805 5.1k 1% Resistor,2,LCSC,C23186,0.03
+19,R_CHIME2,4.7k,Resistor_SMD:R_0805_2012Metric,0805 4.7k 1% Resistor,1,LCSC,C23163,0.03
+20,R_CHIME1,1k,Resistor_SMD:R_0805_2012Metric,0805 1k 1% Resistor,1,LCSC,C17513,0.03
+21,R_BL2,100R,Resistor_SMD:R_0805_2012Metric,0805 100R 1% Resistor,1,LCSC,C17408,0.03
