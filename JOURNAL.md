@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.42h | 3 |
+| Week 1 | Tier 1 | 6.12h | 3 |
 
 ## Contents
 
@@ -44,7 +44,7 @@ Eveyrthing setupp,
 
 ### 2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)
 
-**3.5h**
+**5.2h**
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)
 
@@ -78,3 +78,5 @@ just so i can remember what each part was for, and it's mostly working but it sh
 what worked: the module's pinout finally makes sense to me, the two-socket layout is correct (this module is NOT a 2x22, it's two separate 1x22 rows and getting that wrong would have killed the board), and i have real lcsc part numbers in a bom now.
 
 what didn't: my timelapse discipline, my screenshot discipline, and the fact that routing is still very much not finished. next session the red lines die one by one....
+
+[Timelapse](https://lookout.hackclub.com/api/media/467d0735-bd85-4f0f-9a36-2396e7c09bee/video.mp4)
