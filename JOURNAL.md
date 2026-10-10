@@ -16,7 +16,7 @@
 
 1. [2026-10-10 – Just downloaded the KiCAD 10.0, installed unable to understand usage. The layout and starting menu is bit simple to see but as soon i opened the PCB editor ; holy so so much configuration.](#2026-10-10-just-downloaded-the-kicad-100-installed-unable-to)
 2. [2026-10-10 – Eveyrthing setupp,](#2026-10-10-eveyrthing-setupp)
-3. [2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/13a576aaad43c339fb15e5ec0fd57c0ae426b80451022eb2cfd97ccf4b699e7f.png)](#2026-10-10-imagehttpshalflifehackclub-assetscomhackclub-half)
+3. [2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/5f5f3de3a9c4388975f7704808b13a5a12ba5f6a2242ada1251d2d4157911027.png)](#2026-10-10-imagehttpshalflifehackclub-assetscomhackclub-half)
 
 ## Design
 
@@ -42,11 +42,11 @@ Eveyrthing setupp,
 
 [Timelapse](https://lookout.hackclub.com/api/media/7372bb3b-b9a9-4f28-93fa-35d9b431a647/video.mp4)
 
-### 2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/13a576aaad43c339fb15e5ec0fd57c0ae426b80451022eb2cfd97ccf4b699e7f.png)
+### 2026-10-10 – ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/5f5f3de3a9c4388975f7704808b13a5a12ba5f6a2242ada1251d2d4157911027.png)
 
 **4.2h**
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/13a576aaad43c339fb15e5ec0fd57c0ae426b80451022eb2cfd97ccf4b699e7f.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/5f5f3de3a9c4388975f7704808b13a5a12ba5f6a2242ada1251d2d4157911027.png)
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cS9KscHhpXWpAjsHTuU1VWQAnI2MBiQy/a6ed99a0d5d7615f7516f050eff27b1e7b5b7ee64c85c06ea2e07a2beeab675b.png)
 
 I never though the starting will be too bad for me as **AI gamed me** old version 's instructions that;s why i just got overwhelmed mind and left pc work as it is as i was unable to find he given dropdown and shortcuts.
