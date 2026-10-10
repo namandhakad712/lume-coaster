@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.12h | 3 |
+| Week 1 | Tier 1 | 6.07h | 3 |
 
 ## Contents
 
@@ -36,7 +36,7 @@ Just took an screenshot of it and am consulting with llm *NOOB*  guides, learnin
 
 ### 2026-10-10 – Eveyrthing setupp,
 
-**0.42h**
+**0.37h**
 
 Eveyrthing setupp,
 
