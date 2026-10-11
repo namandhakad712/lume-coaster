@@ -30,11 +30,49 @@ sym-lib-table
 *.drl
 *.drl.tmp
 *.zip
+# Exception: the board's fab archive IS the deliverable for JLCPCB.
+!carrier-board/lume-coaster/gerbers.zip
 
 # Probe logs and scratch output.
 tools/probes/probe-in.txt
 tools/probes/probe-out.txt
 tools/probes/probe-err.txt
+
+# Generator scripts live in .private/ — never tracked.
+carrier-board/lume-coaster/*.py
+
+# DRC/ERC scratch reports from verification runs.
+carrier-board/lume-coaster/*.rpt
+carrier-board/lume-coaster/*_drc.txt
+carrier-board/lume-coaster/*_erc.txt
+carrier-board/lume-coaster/drc*.txt
+carrier-board/lume-coaster/erc*.txt
+
+# KiCad lock files.
+carrier-board/lume-coaster/~*.lck
+
+# VS Code local history inside the board project.
+carrier-board/lume-coaster/.history/
+
+# Loose gerbers / drill inside the gerbers subfolder — ship the archive instead.
+carrier-board/lume-coaster/gerbers/
+
+# Scratch test schematics from library probing.
+ao_test.kicad_sch
+existing_drc.txt
+lc_erc.txt
+test_erc.txt
+test_sch-erc.rpt
+tp_test-erc.rpt
+temp_test-erc.rpt
+temp_test.kicad_sch
+test_sch.kicad_pro
+test_sch.kicad_sch
+tp_test.kicad_sch
+
+# Scratch board-generator / probe scripts — backed up in .private/tools/.
+tools/*.py
+tools/test_sch.kicad_sch
 
 # OS / editor noise.
 Thumbs.db
