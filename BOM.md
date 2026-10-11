@@ -17,7 +17,7 @@
 | [Lithium-Ion Battery](https://www.amazon.in/HKN-Rechargeable-Lithium-ion-Electronic-Connector/dp/B0FGQQFMCH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1UT8E7M11709J) | Rechargeable Lithium-Ion Battery Pack with JST 2 Pin , fully ready to use for tuya t5 board. | 1 | $6.00 | $6.00 | [amazon](https://www.amazon.in/HKN-Rechargeable-Lithium-ion-Electronic-Connector/dp/B0FGQQFMCH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1UT8E7M11709J) |
 | [Switch Button](https://www.amazon.in/PACK-Locking-Tactile-Button-Switch/dp/B0HF4Y44VR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.HSxHysrCrYLyPxHUXn63nk3dnTMfnMA8_aRLnlIHssP3Vbc4u5eJtrlp5OEGroYGz3VMD_R-FuwZUqfZg4A2iMDGn3i2aPpXt7MZmNyrn17JrjQBIw95wenCB8A0k1kzUVdhS33Z03PGBCcD7cWZCZQESemVn5Q5bj1bnwy-WS2TJsVNasO5WueUqG6hn6qd6F7SAHQO8tupm4o7gAowz_1FYMnRSyPn6DILS4MmQWSflpwHlFgTkVpkHb2lYw-arZ1jbmPdjKf6uLSkRfzu9uUUD3uqV_fER28PIEl10Eg.ZvbhEZY2NsPXBppBkXRyC5q7a80ixPk3tbKOmnrNQ6w&dib_tag=se&keywords=button+module&qid=1791745919&sr=8-1) | To boot, ai wakeup, volume, custom function,etc. | 1 | $1.50 | $1.50 | [amazon](https://www.amazon.in/PACK-Locking-Tactile-Button-Switch/dp/B0HF4Y44VR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.HSxHysrCrYLyPxHUXn63nk3dnTMfnMA8_aRLnlIHssP3Vbc4u5eJtrlp5OEGroYGz3VMD_R-FuwZUqfZg4A2iMDGn3i2aPpXt7MZmNyrn17JrjQBIw95wenCB8A0k1kzUVdhS33Z03PGBCcD7cWZCZQESemVn5Q5bj1bnwy-WS2TJsVNasO5WueUqG6hn6qd6F7SAHQO8tupm4o7gAowz_1FYMnRSyPn6DILS4MmQWSflpwHlFgTkVpkHb2lYw-arZ1jbmPdjKf6uLSkRfzu9uUUD3uqV_fER28PIEl10Eg.ZvbhEZY2NsPXBppBkXRyC5q7a80ixPk3tbKOmnrNQ6w&dib_tag=se&keywords=button+module&qid=1791745919&sr=8-1) |
 | **Parts subtotal** | — | — | — | **$12.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$12.00** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$15.00** | — |
 
-$18.00 left of the tier's funding.
+$15.00 left of the tier's funding.
