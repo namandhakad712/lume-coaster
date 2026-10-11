@@ -1,4 +1,5 @@
 # lume-coaster
+<img width="1093" height="496" alt="Screenshot 2026-10-10 232703" src="https://github.com/user-attachments/assets/cfc317d4-7369-476a-be77-5d96323c1a20" />
 
 A carrier board for the Tuya **T5AI-Core** (T5-E1) module — the kind of board
 you design once so the module stops being a tangle of Dupont wires and starts
