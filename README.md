@@ -68,53 +68,36 @@ OR
 It's a board, on its own, that does a job. Power it from USB-C or a LiPo,
 plug in a display, and it shows whatever the module is running.
 
-## Why this board
+# Why this board
 
-The T5AI-Core is a module, not a dev-kit. To use it for anything you either
+Basically, i already have it,😗 so instead of buying a new development board, I used it.
+The T5AI-Core is a module, not a dev-kit. To use it for anything you either, its has mic, speaker, ASR built-in and much more.
 hand-wire a breakout every single time, or you design one carrier board once
 and never think about it again. This is the second one.
 
 Everything on it is chosen to be unremarkable and reliable:
-
-- **No duplicate regulators.** The module already regulates 5 V and 3.3 V on
-  board. The carrier's battery supply feeds the module's own charge path —
-  no second regulation stage, no ground loop.
-- **Backlight is a switch, not a resistor.** P-MOS high-side, gate pulled
-  high so the backlight is *off* by default during boot — no flash of white
-  screen while the module is still pulling itself together.
-- **Buttons are pulled high.** GPIO idles high, press is low. Three 10 kΩ
-  pull-ups plus 100 nF debounce caps; no matrix, no expander, three pins is
-  cheaper than an IC.
-- **Chime is gated, not driven.** A 3-pin header with 5 V, ground, and a
-  trigger line held low by a pull-down so no boot glitch ever rings it.
+- [x] Has own USB-Type C port
+- [x] Has own 5V-3.3Volt Power management
+- [x] Has it own built-in ASR
+- [x] On device 16MB RAM
+- [x] Optimized for battery based edge cases
+- [x] Integrated 2.4 GHz Wi-Fi and Bluetooth low energy (LE) 5.4
 
 ## Repo layout
 
 ```
-carrier-board/      netlist, pin map, schematic notes, layout constraints
+carrier-board/      all board contents - netlist, pin map, schematic notes, layout constraints
 reference/          module pinout screenshots used while pinning out J1
-tools/              KiCad tooling — the MCP server and the probe scripts
-kicad-noob-guide.md the build procedure, block by block
+kicad-noob-guide.md [FOR BEGINNERS] the build procedure, block by block 
 BOM.md              parts list
-JOURNAL.md          work log
+JOURNAL.md          work journey log
 ```
 
-`tools/kicad-mcp` is a vendored copy of
-[mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
-(MIT). Not this project's code — it drives KiCad from this repo's tooling.
+## Hardware one-liner Flow
 
-## Hardware one-liner
-
-LiPo or USB-C → module's own charge path and regulators → +3V3 rail →
+LiPo or USB-C ⇀ module's own charge path and regulators ⇀ +3V3 rail ⇀
 ILI9341 over SPI0, three buttons, one chime header, one P-MOS backlight.
 
 Full net list, per-pin reasoning, and why each pin was picked or avoided:
 [`carrier-board/netlist-pinmap.md`](carrier-board/netlist-pinmap.md).
 
-## Status
-
-**In progress — schematic capture.** Netlist and pinmap are locked, the KiCad
-10 toolchain is set up and verified end to end (`pcbnew` import, board
-create, footprint load, save/round-trip, and the MCP server booting clean
-against KiCad 10.0.7). Schematic capture is next; see
-[`JOURNAL.md`](JOURNAL.md).
